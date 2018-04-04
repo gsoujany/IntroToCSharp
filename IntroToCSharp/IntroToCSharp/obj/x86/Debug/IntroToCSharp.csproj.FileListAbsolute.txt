@@ -1,0 +1,4 @@
+E:\Devops\Git\IntroToCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.exe
+E:\Devops\Git\IntroToCSharp\IntroToCSharp\IntroToCSharp\bin\Debug\IntroToCSharp.pdb
+E:\Devops\Git\IntroToCSharp\IntroToCSharp\IntroToCSharp\obj\x86\Debug\IntroToCSharp.exe
+E:\Devops\Git\IntroToCSharp\IntroToCSharp\IntroToCSharp\obj\x86\Debug\IntroToCSharp.pdb
